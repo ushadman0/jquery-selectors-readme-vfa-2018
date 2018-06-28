@@ -5,5 +5,5 @@ function lastImageSelector() {
   return $('img:last');
 }
 function ninjaBabySelector() {
-  return $('#baby')
+  return $('#baby-ninja')
 }
